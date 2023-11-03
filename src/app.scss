@@ -1,0 +1,14 @@
+@import "./index.scss";
+*{
+    box-sizing: border-box;
+    padding:0px;
+    margin: 0px;
+}
+.app-container{
+    font-family: $font-body;
+    font-size: 1rem;
+}
+ul{
+    list-style-type: none;
+}
+

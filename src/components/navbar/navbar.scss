@@ -1,0 +1,13 @@
+nav{
+    display: grid;
+    place-items: center;
+    grid-template-columns:1fr 3fr;
+    justify-content: space-between; 
+    ul{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 2rem;
+      font-weight: normal;
+    }
+  }
